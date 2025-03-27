@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_school_app_FILE /home/adafww/school_app/build/school_app)
+set(__QT_DEPLOY_TARGET_school_app_TYPE EXECUTABLE)
